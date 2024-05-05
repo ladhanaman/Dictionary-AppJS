@@ -39,6 +39,10 @@ body {
   display: none;
 }
 
+/* .iii{
+    height:0rem;
+} */
+
 @media screen and (max-width: 500px) {
   .container {
     width: 80%;
@@ -46,8 +50,8 @@ body {
   .input{
     width:60%;
   }
-  .iii
+  /* .iii
   {
     width: 60%
-  }
+  }*/
 }

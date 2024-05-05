@@ -39,9 +39,9 @@ body {
   display: none;
 }
 
-/* .iii{
+.iii{
     height:0rem;
-} */
+}
 
 @media screen and (max-width: 500px) {
   .container {
